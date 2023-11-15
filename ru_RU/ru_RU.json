@@ -1,5 +1,8 @@
 {
     "GREETING": "asdfasdf",
     "TEST1": "Privet",
-    "TEST 2": "privet"
+    "TEST 2": "privet",
+    "NEW_KEY": "",
+    "ERROR_1": "eta ne pravda",
+    "DEMO_KEY": "sadfasdfasdfasdf"
 }
