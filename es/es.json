@@ -1,5 +1,10 @@
 {
     "GREETING": "????",
     "TEST1": "Hola!",
-    "TEST 2": "sfsadf"
+    "TEST 2": "sfsadf",
+    "NEW_KEY": "",
+    "ERROR_1": "Uh oh, looks like there was an issue :(",
+    "DEMO_KEY": "sadfasdfasdfasdf",
+    "SINGLE_FIEL": "",
+    "KEY_3": "key 3"
 }
