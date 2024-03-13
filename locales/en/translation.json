@@ -3,5 +3,6 @@
     "venus": "Venus",
     "Earth": "Earth",
     "duplicated": "duplicated"
-  }
+  },
+  "test": "test!"
 }
