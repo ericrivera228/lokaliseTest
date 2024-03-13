@@ -1,6 +1,8 @@
 {
-  "mercury": "Mercury",
-  "venus": "Venus",
-  "duplicated": "duplicated",
-  "Earth": "Earth"
+  "planets": {
+    "mercury": "Mercury",
+    "venus": "Venus",
+    "Earth": "Earth",
+    "duplicated": "duplicated"
+  }
 }
