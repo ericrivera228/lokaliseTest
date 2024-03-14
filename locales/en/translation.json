@@ -1,8 +1,7 @@
 {
   "planets": {
     "venus": "Venus",
-    "Earth": "Earth",
-    "duplicated": "duplicated"
+    "Earth": "Earth"
   },
   "duplicateTest": "duplicateTest"
 }
