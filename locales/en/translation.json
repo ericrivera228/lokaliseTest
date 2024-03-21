@@ -2,6 +2,5 @@
   "planets": {
     "venus": "Venus",
     "Earth": "Earth"
-  },
-  "duplicateTest": "duplicateTest"
+  }
 }
