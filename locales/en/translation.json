@@ -1,5 +1,7 @@
 {
   "planets": {
     "venus": "Venus",
-  }
+  },
+  "bottle": "bottle",
+  "water": "water"
 }
