@@ -1,5 +1,7 @@
 {
   "bottle": "bottle",
   "water": "water",
-  "venus": "Venus"
+  "venus": "Venus",
+  "earth": "Earth",
+  "mars": "Mars"
 }
